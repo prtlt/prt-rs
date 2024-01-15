@@ -1,1 +1,1 @@
-Yet another remote desktop software, written in Rust. Works out of the box, no configuration required. You have full control of your data, with no concerns about security. You can use our rendezvous/relay server, [set up 
+Yet another remote desktop software, written in Rust.
